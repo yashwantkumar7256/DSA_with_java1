@@ -2,7 +2,7 @@ package IfElse;
 
 import java.util.Scanner;
 
-//HW: Take 3 positive integers input and
+//HW: Take 3 positive integers output1 and
 //print the least of them
 public class five {
     public static void main(String[] args) {

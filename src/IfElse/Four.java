@@ -1,7 +1,7 @@
 package IfElse;
 
 import java.util.Scanner;
-//Ques: Take positive integer input and
+//Ques: Take positive integer output1 and
 //print:
 // Riya
 // Bank

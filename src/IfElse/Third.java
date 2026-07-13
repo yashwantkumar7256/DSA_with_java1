@@ -2,7 +2,7 @@ package IfElse;
 
 import java.util.Scanner;
 //HW: Take length and breadth of
-//rectangle as input and write a program
+//rectangle as output1 and write a program
 //to find whether the area of rectangle is
 //greater than its perimeter
 

@@ -2,7 +2,7 @@ package IfElse;
 
 import java.util.Scanner;
 
-//Ques: Take positive integer input and
+//Ques: Take positive integer output1 and
 //tell if it is odd or even
 public class six {
     public static void main(String[] args) {

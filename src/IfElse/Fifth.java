@@ -27,7 +27,7 @@ public class Fifth {
 //        }  else if (num1>0&&num2<0){
 //        System.out.println("it is in 4th quadrant");
 //    }
-//Ques: Take positive integer input and
+//Ques: Take positive integer output1 and
 //tell if it is a four digit number or not.
 
         System.out.println("enter a number ");

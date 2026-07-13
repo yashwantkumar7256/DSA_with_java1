@@ -1,7 +1,7 @@
 package IfElse;
 
 import java.util.Scanner;
-//Ques: Take real number input and check
+//Ques: Take real number output1 and check
 //if it is an integer or not
 
 public class Firstt {
