@@ -20,6 +20,7 @@ public class decreacingArray2 {
        }
        }
         System.out.println("not found");
+       return;
     }
 }
 
