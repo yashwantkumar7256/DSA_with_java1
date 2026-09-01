@@ -2,7 +2,7 @@ package BinnarySerch;
 
 public class equalOrjustLower5 {
     public static void main(String[] args) {
-        int arr[]={1,3,4,56,76,90,91,99};
+        int arr[]={1,3,4,56,76,90,99};
         int low=0;
         int idx=-1;
         int target=88;
@@ -18,5 +18,6 @@ public class equalOrjustLower5 {
             }
         }
         System.out.println(idx);
+
     }
 }
